@@ -4,6 +4,7 @@
 <div>
 <h3>Frontend:</h3>
   React
+  <h5>Run npm install<span> then Run npm start</span></h5>
   </div>
   
  <section>
