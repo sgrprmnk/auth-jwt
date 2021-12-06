@@ -1,6 +1,6 @@
 # Authintication JWT | WebToken |Register, LogIn, LogOut
 
-<h1>awesome design of register,login and logout page with route protect (auth - JWT web token) </h1>
+<h2>awesome design of register,login and logout page with route protect (auth - JWT web token) </h2>
 <div>
 <h3>Frontend:</h3>
   React
