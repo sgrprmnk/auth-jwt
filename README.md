@@ -1,4 +1,4 @@
-# Authintication JWT | WebToken |Register, LogIn, LogOut
+# Authentication  JWT | WebToken |Register, LogIn, LogOut
 
 <h2>awesome design of register,login and logout page with route protect (auth - JWT web token) </h2>
  <h5>Run npm install<span> then Run npm start</span></h5>
