@@ -15,3 +15,12 @@
   
   </div>
   
+
+
+<h4>Knowledge Required:</h4>
+<ul>
+<li> Handling JSON (object Datatype) like map, filter
+<li> HTML,CSS and Javascript 
+<li>Async-await function or Promises for API call
+<li> Some basic knowledge API call response
+  </ul>
