@@ -1,0 +1,68 @@
+body {
+  background: steelblue;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.app {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 16px;
+}
+
+.login-wrapper {
+  min-height: 200px;
+  min-width: 300px;
+  background: #fff;
+  padding: 20px;
+  border-top: 5px lightblue solid;
+  color: #000;
+}
+.login-input button {
+  background: blueviolet;
+  display: flex;
+  width: 100%;
+  height: 50px;
+}
+.login-input input {
+  display: block;
+  padding: 20px;
+  width: 100%;
+  height: 50px;
+  margin: 10px 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+  margin: 40px auto;
+  width: 300px;
+  padding: 0;
+}
+
+ul li {
+  display: inline-block;
+  margin: 10px;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+}
+.btn,
+.btn1 {
+  border: none;
+  color: white;
+  padding: 15px 122px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
