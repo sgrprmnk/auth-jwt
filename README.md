@@ -12,7 +12,7 @@
   
 <div>
   <h3>Sample output</h3>
-  
+  <img src="https://github.com/sgrprmnk/auth-jwt/blob/main/photo-collage.png">
   </div>
   
 
