@@ -19,7 +19,7 @@
   
 
 
-<h4>Knowledge Required:</h4>
+<h4>Knowledge Applied:</h4>
 <ul>
 <li> Handling JSON (object Datatype) like map, filter
 <li> HTML,CSS and Javascript 
